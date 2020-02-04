@@ -1,6 +1,6 @@
 # KabumPriceSearch
 Searches the prices of a product in www.kabum.com.br, ordered from lowest highest, according to the website.  
-Uses Python 3 and BeautifulSoup4.
+Uses Python 3, requests and BeautifulSoup4.
 
 # Usage
 Open the terminal/cmd  
