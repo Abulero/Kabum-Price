@@ -16,7 +16,7 @@ if __name__ == '__main__':
     Kabum_Scraping = KabumScraping(product)
 
     for i in range(10):
-        name, price = Kabum_Scraping.GetPrice(i)
+        name, price = Kabum_Scraping.get_price(i)
 
         if name == None:
             break
